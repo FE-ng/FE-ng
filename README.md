@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FE-ng)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FE-ng&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FE-ng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **FE-ng/FE-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
