@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FE-ng&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FE-ng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-![codewars 荣耀值](https://www.codewars.com/users/FE-ng/badges/large)
+[![codewars 荣耀值](https://www.codewars.com/users/FE-ng/badges/large)](https://www.codewars.com)
 
 <!--
 **FE-ng/FE-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
