@@ -1,6 +1,5 @@
 # waka-coding-stats-workflows.yml
 name: Waka Readme
-
 on:
   schedule:
     # Runs at 12am IST
@@ -8,10 +7,10 @@ on:
   workflow_dispatch:
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Profile Readme Development Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@V3
         with:
         # secrets.WAKATIME_API_KEY 的 WAKATIME_API_KEY 就是 Secret API Key 的变量名
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
