@@ -13,6 +13,6 @@ jobs:
       - uses: anmol098/waka-readme-stats@V3
         with:
         # secrets.WAKATIME_API_KEY 的 WAKATIME_API_KEY 就是 Secret API Key 的变量名
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKA_API_KEY }}
         # secrets.GH_TOKEN 的 GH_TOKEN 就是 token 的变量名
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.INDEX_README_TOKEN }}
