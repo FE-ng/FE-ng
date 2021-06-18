@@ -4,7 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FE-ng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 [![codewars 荣耀值](https://www.codewars.com/users/FE-ng/badges/large)](https://www.codewars.com)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FE-ng)
-### :kissing_smiling_eyes: 访客
+###  🤔  访客
+![](https://komarev.com/ghpvc/?username=FE-ng&label=Profile%20views&color=0e75b6&style=flat)
+
 <!-- ![FE-ng](https://komarev.com/FE-ng/?username=FE-ng&label=Profile%20views&color=0e75b6&style=flat) -->
 [<img src="https://github-profile-trophy.vercel.app/?username=FE-ng&theme=juicyfresh" />](https://github.com/FE-ng) 
 
