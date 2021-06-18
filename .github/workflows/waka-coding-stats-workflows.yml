@@ -1,0 +1,19 @@
+# waka-coding-stats-workflows.yml
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+        # secrets.WAKATIME_API_KEY 的 WAKATIME_API_KEY 就是 Secret API Key 的变量名
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        # secrets.GH_TOKEN 的 GH_TOKEN 就是 token 的变量名
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
