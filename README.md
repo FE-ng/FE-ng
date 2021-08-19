@@ -55,7 +55,7 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+🌞 Morning    60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04% gg
 🌆 Daytime    247 commits    █████████████░░░░░░░░░░░░   53.7% 
 🌃 Evening    150 commits    ████████░░░░░░░░░░░░░░░░░   32.61% 
 🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
@@ -321,4 +321,4 @@ HTML、模板语言
 
 
 <!--
-**FE-ng/FE-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile 5day.
+**FE-ng/FE-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile 6day.
