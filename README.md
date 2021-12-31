@@ -118,7 +118,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/FE-ng/FE-ng/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/12/2021
+ Last Updated on 31/12/2021
 <!--END_SECTION:waka-->
 </details>
 
