@@ -38,7 +38,7 @@
 <summary>-----展开详情-----</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C734%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C808%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -120,7 +120,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/FE-ng/FE-ng/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/05/2022 20:13:35 UTC
+ Last Updated on 09/05/2022 20:14:28 UTC
 <!--END_SECTION:waka-->
 </details>
 
