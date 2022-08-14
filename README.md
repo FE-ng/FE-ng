@@ -38,7 +38,7 @@
 <summary>-----展开详情-----</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C036%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,7 +46,7 @@
 
 > 🏆 2 Contributions in the Year 2022
  > 
-> 📦 367.0 kB Used in GitHub's Storage 
+> 📦 366.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,7 +121,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/FE-ng/FE-ng/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/08/2022 20:14:26 UTC
+ Last Updated on 14/08/2022 20:14:11 UTC
 <!--END_SECTION:waka-->
 </details>
 
