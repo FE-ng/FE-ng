@@ -22,13 +22,13 @@
 
 <!-- 战果 -->
 ### 近期动态
-![总统计](https://github-readme-streak-stats.herokuapp.com/?user=FE-ng) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FE-ng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![总统计](https://streak-stats.demolab.com/?user=FE-ng) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FE-ng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FE-ng&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats) [![codewars 荣耀值](https://www.codewars.com/users/FE-ng/badges/large)](https://www.codewars.com)
 
 <!-- 贡献折线数据图 -->
 
 ### 贡献折线数据图
-[![](https://activity-graph.herokuapp.com/graph?username=FE-ng&theme=react-dark&area=true&hide_border=true)](https://github.com/FE-ng)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=FE-ng&theme=react-dark&area=true&hide_border=true)](https://github.com/FE-ng)
 
 
 
@@ -38,9 +38,9 @@
 <summary>-----展开详情-----</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C216%20hrs%2020%20mins-blue)
+![Code Time](https://img.shields.io/badge/Code%20Time-2%2C216%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
