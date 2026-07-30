@@ -22,8 +22,13 @@
 
 <!-- 战果 -->
 ### 近期动态
+<!-- 公共 vercel 实例已下线(502/504),待自部署后恢复: streak-stats / top-langs
 ![总统计](https://streak-stats.demolab.com/?user=FE-ng) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FE-ng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FE-ng&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats) [![codewars 荣耀值](https://www.codewars.com/users/FE-ng/badges/large)](https://www.codewars.com)
+-->
+<!-- github-readme-stats 公共实例 502,待自部署:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FE-ng&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+-->
+[![codewars 荣耀值](https://www.codewars.com/users/FE-ng/badges/large)](https://www.codewars.com)
 
 <!-- 贡献折线数据图 -->
 
@@ -128,7 +133,9 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 <h3 align="left">惨兮兮的奖杯:</h3>
 
+<!-- github-profile-trophy 公共实例 502,待自部署:
 [<img src="https://github-profile-trophy.vercel.app/?username=FE-ng&theme=juicyfresh" />](https://github.com/FE-ng)
+-->
 
 <h3 align="left">吃饭的家伙和筷子:</h3>
 <p align="left">
