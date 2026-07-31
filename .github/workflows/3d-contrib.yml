@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: 3D Contrib
-        uses: yoshi389111/github-profile-3d-contrib@main
+        uses: yoshi389111/github-profile-3d-contrib@v0.7.1
         with:
           github_user_name: ${{ github.repository_owner }}
           gh_token: ${{ secrets.GITHUB_TOKEN }}
